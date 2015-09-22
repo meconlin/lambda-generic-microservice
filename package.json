@@ -1,0 +1,15 @@
+{
+  "name": "lambda-generic-microservice",
+  "version": "1.0.0",
+  "description": "generic dynamodb object microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "meconlin",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.2.0",
+    "http-status-codes": "^1.0.5"
+  }
+}
